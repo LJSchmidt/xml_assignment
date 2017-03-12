@@ -1,0 +1,49 @@
+<?xml="1.0" encoding="utf-8"?>
+
+
+<comics>
+	<title="Ruse">
+		<description>Famous detective Simon Archard and his mysterious assistant Emma Bishop investigate bewildering crimes in Victorian London.
+		</description>
+		<volumes>1 through 26
+		</volumes>
+		<publisher>Crossgen
+		</publisher>
+	</title>
+
+	<title="Scion">
+		<description>Young warrior Ethan, Prince of the Crane Dynasty, struggles to reconcile family loyalty with threatsof war and civil unrest in his changing medieval world.
+		</description>
+		<volumes>1 through 37
+		</volumes>
+		<publisher>Crossgen
+		</publisher>
+	</title>
+
+	<title="Sojourn">
+		<description>Bereft of her family in a raid by trolls, archer Arwyn travels her dangerous world questing for a weapon to defeat the undead tyrant Mordath.
+		</description>
+		<volumes>1 through 37
+		</volumes>
+		<publisher>Crossgen
+		</publisher>
+	</title>
+
+	<title="Kin">
+		<description>Intrepid wilderness ranger Elspeth encounters a technologically advanced Neanderthal and must protect him from discovery and exploitation by sinister agents.
+		</description>
+		<volumes>1 through 6
+		</volumes>
+		<publisher>Image Top Cow
+		</publisher>
+	</title>
+
+	<title="Star Wars Tales">
+		<description>An anthology series of stories inspired by and derived from the Star Wars movies.
+		</description>
+		<volumes>1 through 20
+		</volumes>
+		<publisher>Dark Horse Comics
+		</publisher>
+	</title>
+</comics>
